@@ -1,2 +1,0 @@
-# FinkiRoyale-Proekt
-Test
